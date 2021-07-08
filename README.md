@@ -10,7 +10,6 @@
 ![](https://github.com/Teamkronos/agent_based_model_slime_mold/blob/main/images/2.PNG)
 ![](https://github.com/Teamkronos/agent_based_model_slime_mold/blob/main/images/3.PNG)
 ![](https://github.com/Teamkronos/agent_based_model_slime_mold/blob/main/images/4.PNG)
-![](https://github.com/Teamkronos/agent_based_model_slime_mold/blob/main/images/jaxa.PNG)
 ![](https://github.com/Teamkronos/agent_based_model_slime_mold/blob/main/images/a.PNG)
 ![](https://github.com/Teamkronos/agent_based_model_slime_mold/blob/main/images/b.PNG)
 ![](https://github.com/Teamkronos/agent_based_model_slime_mold/blob/main/images/c.PNG)
