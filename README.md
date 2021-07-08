@@ -5,3 +5,22 @@
 * Supported by biological experiments, we justify that an agent based model may substitute the use of real slime mold samples when modeling transport networks. 
 * This is relevant to the modelling of existing and future planned transport networks as well as other network related problems. 
 * We suggest that our model may be applied to archeological research or biomedicine and offer extensions for future development of our model in a 3D environment.
+
+
+![](https://github.com/Teamkronos/mobile_device_market_leader/blob/main/images/1.PNG)
+![](https://github.com/Teamkronos/mobile_device_market_leader/blob/main/images/2.PNG)
+![](https://github.com/Teamkronos/mobile_device_market_leader/blob/main/images/3.PNG)
+![](https://github.com/Teamkronos/mobile_device_market_leader/blob/main/images/4.PNG)
+![](https://github.com/Teamkronos/mobile_device_market_leader/blob/main/images/jaxa.PNG)
+![](https://github.com/Teamkronos/mobile_device_market_leader/blob/main/images/a.PNG)
+![](https://github.com/Teamkronos/mobile_device_market_leader/blob/main/images/b.PNG)
+![](https://github.com/Teamkronos/mobile_device_market_leader/blob/main/images/c.PNG)
+![](https://github.com/Teamkronos/mobile_device_market_leader/blob/main/images/d.PNG)
+![](https://github.com/Teamkronos/mobile_device_market_leader/blob/main/images/e.PNG)
+![](https://github.com/Teamkronos/mobile_device_market_leader/blob/main/images/f.PNG)
+![](https://github.com/Teamkronos/mobile_device_market_leader/blob/main/images/5.PNG)
+![](https://github.com/Teamkronos/mobile_device_market_leader/blob/main/images/6.PNG)
+![](https://github.com/Teamkronos/mobile_device_market_leader/blob/main/images/7.PNG)
+![](https://github.com/Teamkronos/mobile_device_market_leader/blob/main/images/8.PNG)
+![](https://github.com/Teamkronos/mobile_device_market_leader/blob/main/images/9.PNG)
+
