@@ -16,9 +16,9 @@
 ![](https://github.com/Teamkronos/agent_based_model_slime_mold/blob/main/images/d.PNG)
 ![](https://github.com/Teamkronos/agent_based_model_slime_mold/blob/main/images/e.PNG)
 ![](https://github.com/Teamkronos/agent_based_model_slime_mold/blob/main/images/f.PNG)
+![](https://github.com/Teamkronos/agent_based_model_slime_mold/blob/main/images/5.PNG)
 ![](https://github.com/Teamkronos/agent_based_model_slime_mold/blob/main/images/6.PNG)
 ![](https://github.com/Teamkronos/agent_based_model_slime_mold/blob/main/images/7.PNG)
 ![](https://github.com/Teamkronos/agent_based_model_slime_mold/blob/main/images/8.PNG)
-![](https://github.com/Teamkronos/agent_based_model_slime_mold/blob/main/images/5.PNG)
 ![](https://github.com/Teamkronos/agent_based_model_slime_mold/blob/main/images/9.PNG)
 
